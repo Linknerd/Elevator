@@ -5,7 +5,9 @@ CONTRIBUTORS:
 - Alan Zheng: Wrote PriorityQueue.cpp and priorityQueue.h
 - Jerry Zhang: Contributed to construction of elevator
 - Aaron Gong: Wrote project.ino
-- Ho Jun Ma: Modelled the elevator and created the circuit
+- Ho Jun Ma: Modelled the elevator and designed circuit
 
-Circuit diagram can be found in the repository. 
-Elevator demo can be found here: https://youtube.com/shorts/z2ZJwY4etxs?feature=share
+Other notes
+- Circuit diagram can be found in the repository.
+- Elevator demo can be found here: https://youtube.com/shorts/z2ZJwY4etxs?feature=share
+- The STL files for the elevator can be found at https://drive.google.com/drive/folders/1zmhoaXpo2l7GYUKhYwOqotghlKC52ePL?usp=sharing
