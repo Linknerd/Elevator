@@ -1,14 +1,11 @@
-/*
- * *********************************** READ ME *******************
- * This code is for a special linked list. They are called Queues here but they do not function like Queues.
- * In this code, I have left many functions for you to use. The ones that will be most beneficial to you are:
- *      - inElevatorPress()
- *      - outElevatorPress()
- *      - getNextFloor()
- *  These functions have been created for your conveneince. They simply add and remove things as needed.
- *  NOTE: Get next floor does remove the element that it returns.
- *  Furthermore, the script main.c should not be used. Its only there so you can see how I implimented code from the console
- *  For what I've tested so far, the code does work for our intents and purposes. If there is a need for a change, I have documented everything down below.
+/**
+ * Self designed priority queue.
+ * Please note that the retrieval and placement times are not the same as a heap
+ * Data structure written below does not store data like a heap.
+ * 
+ * Date: March 26, 2025
+ * Author: ALan Zheng
+ * Lisence: MIT
  */
 
 #include "priorityQueue.h"
